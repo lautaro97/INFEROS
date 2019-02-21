@@ -1,0 +1,50 @@
+body {
+	background-color: #000;
+}
+#INFEROS {
+	position: absolute;
+	width: 400px;
+	height: 281px;
+	z-index: 1;
+	left: 350px;
+	top: 20px;
+}
+#apDiv2 {
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	z-index: 2;
+	left: 600px;
+	top: 600px;
+	color: #FFF;
+}
+body,td,th {
+	font-size: 18px;
+}
+#apDiv3 {
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	z-index: 2;
+	left: 350px;
+	top: 600px;
+	color: #FFF;
+}
+#apDiv4 {
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	z-index: 2;
+	left: 850px;
+	top: 600px;
+	color: #FFF;
+}
+#apDiv5 {
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	z-index: 2;
+	left: 1102px;
+	top: 600px;
+	color: #FFF;
+}
